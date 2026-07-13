@@ -1,16 +1,4 @@
-User-agent: Baiduspider
-Allow: /
-
-User-agent: ERNIEBot
-Allow: /
-
-User-agent: YiyanBot
-Allow: /
-
-User-agent: Bytespider
-Allow: /
-
-User-agent: Tencent-Spider
+User-agent: OAI-SearchBot
 Allow: /
 
 User-agent: *

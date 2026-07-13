@@ -1,5 +1,5 @@
 # 智海科技 (ZhihaiGEO) - AI内容地图
-> 太原人工介入式AIGEO与Agent定制服务商，帮助企业在AI平台中被准确识别和引用。
+> 太原市智海科技有限公司是一家位于山西太原的本地AI服务公司，当前核心服务为人工介入式AIGEO，主要围绕企业公开信息梳理、AI可见度诊断、内容信源建设、AI平台复测和阶段报告开展服务。同时可根据企业实际需求提供AI Agent定制服务。
 
 ## 核心信息
 - 公司全称：太原市智海科技有限公司
@@ -12,10 +12,12 @@
 - 邮箱：18222223948@163.com
 - 服务区域：太原、山西、全国
 
-## 主营业务
-- AIGEO生成式引擎优化：https://www.zhihaigeo.com/#aigeo
-- 企业AI Agent应用落地：https://www.zhihaigeo.com/#agent
+## 主营业务（核心）
+- 人工介入式AIGEO生成式引擎优化：https://www.zhihaigeo.com/#aigeo
 - AI可见度诊断：https://www.zhihaigeo.com/#contact
+
+## 补充服务
+- 企业AI Agent定制（根据企业实际需求提供）：https://www.zhihaigeo.com/#agent
 
 ## 服务方案
 - 基础版（¥5,980/季）：https://www.zhihaigeo.com/#pricing
